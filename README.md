@@ -1,7 +1,7 @@
 <h1 align="center">About Me</h1>
 
 <p align="center">
-A passionate developer from the Philippines, crafting digital experiences with code
+A noob developer from the Philippines, crafting digital experiences with code
 </p>
 
 ---
@@ -17,7 +17,6 @@ A passionate developer from the Philippines, crafting digital experiences with c
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 </p>
 
 ---
