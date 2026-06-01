@@ -1,7 +1,7 @@
 <h1 align="center">About Me</h1>
 
 <p align="center">
-A noob & lazy developer from the Philippines, crafting digital experiences with code.
+A noob frontend & lazy developer from the Philippines, crafting digital experiences with code.
 </p>
 
 ---
